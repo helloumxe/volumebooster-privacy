@@ -4,7 +4,7 @@ title: Privacy Policy - VolumeBooster
 
 # Privacy Policy for VolumeBooster
 
-Last updated: [Month DD, YYYY]
+Last updated: Aug 4, 2026
 
 This Privacy Policy explains how VolumeBooster ("the App", "we", "us") handles information when you use our volume booster and equalizer application available on Google Play. VolumeBooster processes audio primarily on your device, and we are committed to being transparent about the data the App accesses and how it is used.
 
@@ -85,4 +85,4 @@ We may update this Privacy Policy from time to time to reflect changes in the Ap
 
 If you have questions about this Privacy Policy or how VolumeBooster handles data, please contact us at:
 
-**Email:** [your@email.com]
+**Email:** helloumxe@gmail.com
